@@ -1,6 +1,6 @@
 # Flex-Agent-Watch
 
-![Demo Gif](../assets/flex-agent-watch.gif)
+![Demo Gif](https://github.com/fireredlink5000/plugin-flex-agent-watch/blob/master/assets/flex-agent-watch.gif)
 
 Twilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
 
